@@ -28,6 +28,8 @@
 
 <h2 align="center">Languages and Tools:</h2>
 
+
+<p align="center">
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="35px"/>][git]
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="35px"/>][java]
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="35px"/>][docker]
@@ -43,7 +45,7 @@
 [python]:https://www.python.org/
 [html]:https://www.w3schools.com/html/
 [css]:https://www.w3schools.com/css/
-
+</p>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 
