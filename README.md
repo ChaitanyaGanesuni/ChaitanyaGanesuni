@@ -43,7 +43,7 @@
 [python]:https://www.python.org/
 [html]:https://www.w3schools.com/html/
 [css]:https://www.w3schools.com/css/
-
+<br />
 
 <h2 align="center">GitHub stats:</h2>
 
