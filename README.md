@@ -10,4 +10,4 @@
 - 💬 Fell free to ask about Myself and Tech stuff.
 
 ### Contact with me
-<img src=“img/email.ong” raw=true alt=“email” style=“margin-left: 22px;”/>
+![email](https://github.com/ChaitanyaGanesuni/ChaitanyaGanesuni.github.io/blob/main/img/email.png)
