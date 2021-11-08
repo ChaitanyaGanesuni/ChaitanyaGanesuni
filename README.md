@@ -25,8 +25,6 @@
 [linkedin]:https://www.linkedin.com/in/chaitanya-ganesuni-1aa37a18a/
 [facebook]:https://www.facebook.com/profile.php?id=100032837404617
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
 ## Languages and Tools
 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="30"/>][git]
@@ -44,3 +42,6 @@
 [python]:https://www.python.org/
 [html]:https://www.w3schools.com/html/
 [css]:https://www.w3schools.com/css/
+
+
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
