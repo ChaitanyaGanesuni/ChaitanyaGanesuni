@@ -53,6 +53,9 @@
 [![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaitanyaGanesuni&show_icons=true&theme=radical)](https://github.com/ChaitanyaGanesuni/github-readme-stats)
 
 
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChaitanyaGanesuni&theme=highcontrast)](https://git.io/streak-stats)
 
 
 
