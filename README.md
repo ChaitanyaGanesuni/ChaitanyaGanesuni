@@ -10,9 +10,4 @@
 - 💬 Fell free to ask about Myself and Tech stuff.
 
 ### Contact with me
-
-[<img alt="linkedin" width ="22px"src="https://github.com/ChaitanyaGanesuni/ChaitanyaGanesuni.github.io/blob/main/img/linked-in.png" />][Linkedin]
-
-
-
-[Linkedin] : https://www.linkedin.com/in/chaitanya-ganesuni-1aa37a18a/
+<img src=“img/email.ong” raw=true alt=“email” style=“margin-left: 22px;”/>
