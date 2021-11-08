@@ -18,7 +18,6 @@
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" width="30"/>][facebook]
 #### drop a mail on :	📧 chaitanya.ganesuni20@gmail.com
 
-<br />
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 [instagram]:https://www.instagram.com/chaitanya_ganesuni/
@@ -44,11 +43,6 @@
 [python]:https://www.python.org/
 [html]:https://www.w3schools.com/html/
 [css]:https://www.w3schools.com/css/
-
-
-
-
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 
 <h2 align="center">GitHub stats:</h2>
