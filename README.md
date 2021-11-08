@@ -11,4 +11,6 @@
 
 ### Contact with me
 
-<img src="https://github.com/ChaitanyaGanesuni/ChaitanyaGanesuni.github.io/blob/main/img/email.png" width="22"/>
+[<img src="https://github.com/ChaitanyaGanesuni/ChaitanyaGanesuni.github.io/blob/main/img/email.png" width="22"/>][email]
+
+[email]:chaitanya.ganesuni20@gmail.com
