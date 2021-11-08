@@ -11,6 +11,11 @@
 
 ### Contact with me
 
-[<img src="https://image.similarpng.com/very-thumbnail/2020/07/Instagram-black-and-white-logo-vector-png-(5).png" width="22"/>][email]
+[<img src="https://github.com/ChaitanyaGanesuni/ChaitanyaGanesuni.github.io/blob/main/img/linked-in.png" width="22"/>][linkedin]
+[<img src="https://w7.pngwing.com/pngs/904/880/png-transparent-instagram-logo-screenshot-white-wine-logo-computer-icons-instagram-black-label-photography-black-and-white.png" width="22"/>][instagram]
+[<img src="https://www.citypng.com/public/uploads/preview/-11595327237ulqckjabpb.png" width="22"/>][facebook]
+<img src="https://github.com/ChaitanyaGanesuni/ChaitanyaGanesuni.github.io/blob/main/img/email.png" width="22"/> chaitanya.ganesuni20@gmail.com
 
-[email]:chaitanya.ganesuni20@gmail.com
+[instagram]:https://www.instagram.com/chaitanya_ganesuni/
+[linkedin]:https://www.linkedin.com/in/chaitanya-ganesuni-1aa37a18a/
+[facebook]:https://www.facebook.com/profile.php?id=100032837404617
