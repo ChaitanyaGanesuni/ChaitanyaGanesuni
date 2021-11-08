@@ -16,8 +16,8 @@
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" width="30"/>][facebook]
 
 
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="30"/> : 
-## chaitanya.ganesuni20@gmail.com
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="33"/> : 
+#### chaitanya.ganesuni20@gmail.com
 
 
 
