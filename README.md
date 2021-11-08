@@ -25,9 +25,9 @@
 [linkedin]:https://www.linkedin.com/in/chaitanya-ganesuni-1aa37a18a/
 [facebook]:https://www.facebook.com/profile.php?id=100032837404617
 
-
-<h2 align="center">Languages and Tools:</h2>
 <p align="center">
+<h2 align="center">Languages and Tools:</h2>
+
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="30"/>][git]
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="30"/>][java]
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="30"/>][docker]
