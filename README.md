@@ -12,11 +12,16 @@
 ### Contact with me
 
 [<img src="https://github.com/ChaitanyaGanesuni/ChaitanyaGanesuni.github.io/blob/main/img/linked-in.png" width="30"/>][linkedin]
-[<img src="https://i.pinimg.com/originals/c6/2c/05/c62c055ede6aadbb1f94a555071c98b9.jpg" width="30"/>][instagram]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="30"/>][instagram]
 [<img src="https://icon-library.com/images/black-facebook-icon-png/black-facebook-icon-png-0.jpg" width="30"/>][facebook]
 
 
 - <img src="https://github.com/ChaitanyaGanesuni/ChaitanyaGanesuni.github.io/blob/main/img/email.png" width="30"/> : chaitanya.ganesuni20@gmail.com
+
+
+
+
+
 
 [instagram]:https://www.instagram.com/chaitanya_ganesuni/
 [linkedin]:https://www.linkedin.com/in/chaitanya-ganesuni-1aa37a18a/
