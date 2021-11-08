@@ -57,4 +57,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChaitanyaGanesuni&theme=highcontrast)](https://git.io/streak-stats)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaGanesuni)](https://github.com/ChaitanyaGanesuni/github-readme-stats)
 
