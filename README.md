@@ -46,5 +46,9 @@
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
+[![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaitanyaGanesuni)](https://github.com/ChaitanyaGanesuni/github-readme-stats)
+
+
+
 
 
