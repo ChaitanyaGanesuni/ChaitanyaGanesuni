@@ -25,6 +25,7 @@
 [linkedin]:https://www.linkedin.com/in/chaitanya-ganesuni-1aa37a18a/
 [facebook]:https://www.facebook.com/profile.php?id=100032837404617
 
+h2 {text-align: center;}
 <h2>Languages and Tools</h2>
 
 <center>
