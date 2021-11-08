@@ -25,9 +25,18 @@
 [linkedin]:https://www.linkedin.com/in/chaitanya-ganesuni-1aa37a18a/
 [facebook]:https://www.facebook.com/profile.php?id=100032837404617
 
-h2 {text-align: center;}
-<h2>Languages and Tools</h2>
 
+<html>
+<head>
+<style>
+h2 {text-align: center;}
+</style>
+</head>
+<body>
+
+<h2>Languages and Tools</h2>
+</body>
+</html>
 <center>
 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="30"/>][git]
