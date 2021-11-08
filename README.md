@@ -11,12 +11,12 @@
 
 ### Contact with me
 
-[<img src="https://github.com/ChaitanyaGanesuni/ChaitanyaGanesuni.github.io/blob/main/img/linked-in.png" width="30"/>][linkedin]
-[<img src="https://w7.pngwing.com/pngs/904/880/png-transparent-instagram-logo-screenshot-white-wine-logo-computer-icons-instagram-black-label-photography-black-and-white.png" width="30"/>][instagram]
-[<img src="https://www.citypng.com/public/uploads/preview/-11595327237ulqckjabpb.png" width="30"/>][facebook]
+[<img src="https://github.com/ChaitanyaGanesuni/ChaitanyaGanesuni.github.io/blob/main/img/linked-in.png" width="25"/>][linkedin]
+[<img src="https://w7.pngwing.com/pngs/904/880/png-transparent-instagram-logo-screenshot-white-wine-logo-computer-icons-instagram-black-label-photography-black-and-white.png" width="25"/>][instagram]
+[<img src="https://icon-library.com/images/black-facebook-icon-png/black-facebook-icon-png-0.jpg" width="25"/>][facebook]
 
 
-- <img src="https://github.com/ChaitanyaGanesuni/ChaitanyaGanesuni.github.io/blob/main/img/email.png" width="30"/> chaitanya.ganesuni20@gmail.com
+- <img src="https://github.com/ChaitanyaGanesuni/ChaitanyaGanesuni.github.io/blob/main/img/email.png" width="25"/> : chaitanya.ganesuni20@gmail.com
 
 [instagram]:https://www.instagram.com/chaitanya_ganesuni/
 [linkedin]:https://www.linkedin.com/in/chaitanya-ganesuni-1aa37a18a/
