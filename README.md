@@ -11,10 +11,8 @@
 
 ### Contact with me
 
-[<img align = "left" alt="LinkedIn Logo" width ="22px"src="https://github.com/ChaitanyaGanesuni/ChaitanyaGanesuni.github.io/blob/main/img/linked-in.png" ></a>]
+[<img align = "left" alt="linkedin Logo" width ="22px"src="https://github.com/ChaitanyaGanesuni/ChaitanyaGanesuni.github.io/blob/main/img/linked-in.png" />][Linkedin]
 
-[<img width ="22px"src="https://github.com/ChaitanyaGanesuni/ChaitanyaGanesuni.github.io/blob/main/img/email.png" alt="email Logo"></a>]
 
-[<img width ="22px"src="https://i.pinimg.com/originals/b7/63/69/b763699fd1fa3bfb374442593ae642e1.png" alt="facebook Logo"></a>]
 
-[<img width ="22px"src="https://image.similarpng.com/very-thumbnail/2020/07/Instagram-black-and-white-logo-vector-png-(5).png" alt="instagram Logo"></a>]
+[Linkedin] : https://www.linkedin.com/in/chaitanya-ganesuni-1aa37a18a/
