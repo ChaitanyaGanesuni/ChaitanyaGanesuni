@@ -27,7 +27,7 @@
 
 <h2>Languages and Tools</h2>
 
-
+<center>
 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="30"/>][git]
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="30"/>][java]
@@ -45,5 +45,6 @@
 [html]:https://www.w3schools.com/html/
 [css]:https://www.w3schools.com/css/
 
+  </center>
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
