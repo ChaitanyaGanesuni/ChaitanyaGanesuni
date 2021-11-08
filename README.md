@@ -36,7 +36,7 @@
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="30"/>][python]
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30"/>][html]
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30"/>][css]
-
+</p>
 [git]:https://git-scm.com/
 [java]:https://www.java.com/en/
 [docker]:https://www.docker.com/
@@ -45,5 +45,5 @@
 [html]:https://www.w3schools.com/html/
 [css]:https://www.w3schools.com/css/
 
-</p>
+
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
