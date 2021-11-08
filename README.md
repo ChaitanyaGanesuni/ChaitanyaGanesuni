@@ -17,7 +17,7 @@
 
 
 - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="30"/> : 
-#chaitanya.ganesuni20@gmail.com
+# chaitanya.ganesuni20@gmail.com
 
 
 
