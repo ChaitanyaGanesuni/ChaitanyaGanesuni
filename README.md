@@ -11,7 +11,7 @@
 
 ### Contact with me
 
-[<img align = "left" alt="linkedin Logo" width ="22px"src="https://github.com/ChaitanyaGanesuni/ChaitanyaGanesuni.github.io/blob/main/img/linked-in.png" />][Linkedin]
+[<img alt="linkedin" width ="22px"src="https://github.com/ChaitanyaGanesuni/ChaitanyaGanesuni.github.io/blob/main/img/linked-in.png" />][Linkedin]
 
 
 
