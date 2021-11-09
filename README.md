@@ -13,10 +13,10 @@
 
 ### Contact with me
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30"/>][linkedin]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="30"/>][instagram]
+[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30"/>][linkedin]
+[<img align="left"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="30"/>][instagram]
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" width="30"/>][facebook]
-#### drop a mail on :	📧 chaitanya.ganesuni20@gmail.com
+#### drop a 📧 mail on :	chaitanya.ganesuni20@gmail.com
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
