@@ -1,13 +1,13 @@
-<img src="https://c.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" width="34"/> Hi there, I'm Chaitanya 
+<img src="https://c.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" width="34"/> ***Hi there, I'm Chaitanya*** 
 
 ## An always dedicated student with an appetite to learn. Aspiring to be a part of the management institute with a perfect blend of technical skills
 
 
-- 🔭 I’m currently working on Networks Security
-- 🌱 I’m currently learning - Cloud Security
-- 👯 I’m looking to collaborate on machine learning and cloud.
-- 😃 I’m very excited for Your contribution
-- 💬 Fell free to ask about Myself and Tech stuff.
+- 🔭 *I’m currently working on Networks Security*
+- 🌱 *I’m currently learning - Cloud Security*
+- 👯 *I’m looking to collaborate on machine learning and cloud.*
+- 😃 *I’m very excited for Your contribution*
+- 💬 *Fell free to ask about Myself and Tech stuff.*
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
