@@ -1,4 +1,4 @@
-### Hi there, I'm Chaitanya ![](https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif)
+### Hi there, I'm Chaitanya <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif",width ="32px">
 
 ## An always dedicated student with an appetite to learn. Aspiring to be a part of the management institute with a perfect blend of technical skills
 
