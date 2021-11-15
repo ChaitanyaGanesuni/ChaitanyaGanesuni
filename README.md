@@ -11,7 +11,7 @@
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-### Contact with me
+## *Contact with me*
 
 [<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30"/>][linkedin]
 [<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="30"/>][instagram]
